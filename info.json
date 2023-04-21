@@ -1,1 +1,25 @@
-
+{"name":"Replicare",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Replicare is a decentralized platform to assess and improve the computational reproducibility of published empirical research.Experience these features at Replicare.Crowdsourcing Anyone with a Web3 wallet can submit reproduction attempts for a research claim. Cataloguing Researchers can now systematically explore all prior attempts at reproducing a research claim using our database.Assessing Describe and assign a reproducibility score to a research claim. Improving Analyze, troubleshoot and develop existing reproduction packages for a research claim.",
+"whitePaperLink":"https://docs.replicare.dev/",
+"gallery":[{
+      "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/d85whqx.png", "source": "image",
+       "link": " https://www.replicare.dev/"}
+],
+"deleted":false,
+"primaryColor":"#32454d",
+"twitterHandle":"replicare_desci",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/H4A8cnm.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.replicare.dev/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Publishing", "Blockchain protocols"]  
+}
